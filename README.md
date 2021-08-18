@@ -1,6 +1,5 @@
 # Matthew Oldfield
 
-![chacha.png](chacha.png)
 
 ## Introduction
 
@@ -33,6 +32,23 @@
   <!--Trophies-->
   <img src="https://github-profile-trophy.vercel.app/?username=asmattic&theme=dracula&column=3&margin-w=20&margin-h=20" style="margin-top: 10px;">
 </div>
+
+---
+
+<h3>Current Projects:</h3>
+<table>
+  <tr>
+    <th>Title</th>
+    <th>Description</th>
+  </tr>
+
+  <tr>
+    <th><strong><a href="https://asmattic.com">Zenith Music Player</a></strong></th> 
+    <th><em>My personal documentation site build with the ReadTheDocs Sphinx theme</em></th> 
+  </tr>
+
+  
+</table>
 
 ---
 
