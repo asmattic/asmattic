@@ -21,6 +21,19 @@
 <!--[<img align="left" alt="1000hires" width="80" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/1000hires.ico" ](https://1000hires.com/candidates/466)-->
 <br />
 
+---
+
+<h3>Custom Viewcounter:</h3>
+
+<a href="https://myviewcounts.rayhanadev.repl.co"><img src='https://myviewcounts.rayhanadev.repl.co/viewcount/GithubViews.png'></a>
+
+---
+
+### Coding Stats
+
+<figure><embed src="https://wakatime.com/share/@5f735950-6139-4951-9a67-d72bd7015b4b/3de52c19-2382-43f6-a52c-6ad86debee09.svg"></embed></figure>
+
+---
 <h3>Github Stats:</h3>
 <div align="left">
   <!--Basic Commit Stats-->
