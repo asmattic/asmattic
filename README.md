@@ -1,23 +1,25 @@
 # Matthew Oldfield
 
+[![wakatime](https://wakatime.com/badge/github/asmattic/asmattic-gatsby-blog.svg)](https://wakatime.com/badge/github/asmattic/asmattic-gatsby-blog)
 
 ## Introduction
 
-- 🔭 I’m currently working on 🤖 
-- 🌱 I’m currently learning 
-
+- 🔭 I’m currently working on 🤖
+- 🌱 I’m currently learning
 
 <!--
 - 🔭 I’m currently working on 🤖 [AI Chatbot Project](https://github.com/melanieshi0120/AI_Chatbot_Project)
-- 🌱 I’m currently learning  AWS and GCP 
+- 🌱 I’m currently learning  AWS and GCP
 -  ⚡ Fun fact: I am trilingual - fluent in English 🇺🇸, Chinese 🇨🇳, and Korean 🇰🇷
 - 🏋️ Workout everyday!
 - 🏅 Black belt Taekwondo athlete 15 years ago
 -->
 
 ### Connect with me
-[<img align="left" alt="LinkedIn" width="80" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/linkedin.ico" />]( hhttps://www.linkedin.com/in/matthew-oldfield/)
+
+[<img align="left" alt="LinkedIn" width="80" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/linkedin.ico" />](hhttps://www.linkedin.com/in/matthew-oldfield/)
 [<img align="left" alt="Medium" width="80" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/medium.ico" />](https://medium.com/@mattoldfield)
+
 <!--[<img align="left" alt="1000hires" width="80" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/1000hires.ico" ](https://1000hires.com/candidates/466)-->
 <br />
 
@@ -34,6 +36,7 @@
 <figure><embed src="https://wakatime.com/share/@5f735950-6139-4951-9a67-d72bd7015b4b/3de52c19-2382-43f6-a52c-6ad86debee09.svg"></embed></figure>
 
 ---
+
 <h3>Github Stats:</h3>
 <div align="left">
   <!--Basic Commit Stats-->
@@ -56,16 +59,15 @@
   </tr>
 
   <tr>
-    <th><strong><a href="https://asmattic.com">Zenith Music Player</a></strong></th> 
-    <th><em>My personal documentation site build with the ReadTheDocs Sphinx theme</em></th> 
+    <th><strong><a href="https://asmattic.com">Zenith Music Player</a></strong></th>
+    <th><em>My personal documentation site build with the ReadTheDocs Sphinx theme</em></th>
   </tr>
 
-  
 </table>
 
 ---
 
-### Languages & Tools 
+### Languages & Tools
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
