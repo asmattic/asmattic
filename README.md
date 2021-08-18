@@ -1,8 +1,24 @@
 # Matthew Oldfield
 
+![chacha.png](chacha.png)
+
+## Introduction
+
+- 🔭 I’m currently working on 🤖 
+- 🌱 I’m currently learning 
+
+
+<!--
+- 🔭 I’m currently working on 🤖 [AI Chatbot Project](https://github.com/melanieshi0120/AI_Chatbot_Project)
+- 🌱 I’m currently learning  AWS and GCP 
+-  ⚡ Fun fact: I am trilingual - fluent in English 🇺🇸, Chinese 🇨🇳, and Korean 🇰🇷
+- 🏋️ Workout everyday!
+- 🏅 Black belt Taekwondo athlete 15 years ago
+-->
+
 ### Connect with me
-[<img align="left" alt="LinkedIn" width="80" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/linkedin.ico" />]( http://www.linkedin.com/in/melanieseok-huashi)
-[<img align="left" alt="Medium" width="80" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/medium.ico" />](https://melaniesoek0120.medium.com)
+[<img align="left" alt="LinkedIn" width="80" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/linkedin.ico" />]( hhttps://www.linkedin.com/in/matthew-oldfield/)
+[<img align="left" alt="Medium" width="80" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/medium.ico" />](https://medium.com/@mattoldfield)
 [<img align="left" alt="1000hires" width="80" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/1000hires.ico" />](https://1000hires.com/candidates/466)
 <br />
 
