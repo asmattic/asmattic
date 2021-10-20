@@ -10,24 +10,23 @@
 <!--
 - 🔭 I’m currently working on 🤖 [AI Chatbot Project](https://github.com/melanieshi0120/AI_Chatbot_Project)
 - 🌱 I’m currently learning  AWS and GCP
--  ⚡ Fun fact: I am trilingual - fluent in English 🇺🇸, Chinese 🇨🇳, and Korean 🇰🇷
-- 🏋️ Workout everyday!
-- 🏅 Black belt Taekwondo athlete 15 years ago
+-  ⚡ Fun fact: I play drums
 -->
 
 ### Connect with me
 
-[<img align="left" alt="LinkedIn" width="80" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/linkedin.ico" />](hhttps://www.linkedin.com/in/matthew-oldfield/)
+[<img align="left" alt="LinkedIn" width="80" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/linkedin.ico" />](https://www.linkedin.com/in/matthew-oldfield)
 [<img align="left" alt="Medium" width="80" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/medium.ico" />](https://medium.com/@mattoldfield)
 
 <!--[<img align="left" alt="1000hires" width="80" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/1000hires.ico" ](https://1000hires.com/candidates/466)-->
 <br />
 
----
+<!--
 
 <h3>Custom Viewcounter:</h3>
 
 <a href="https://myviewcounts.rayhanadev.repl.co"><img src='https://myviewcounts.rayhanadev.repl.co/viewcount/GithubViews.png'></a>
+-->
 
 ---
 
@@ -59,7 +58,7 @@
   </tr>
 
   <tr>
-    <th><strong><a href="https://asmattic.com">Zenith Music Player</a></strong></th>
+    <th><strong><a href="https://asmattic.com">Some docs I made for referencing.</a></strong></th>
     <th><em>My personal documentation site build with the ReadTheDocs Sphinx theme</em></th>
   </tr>
 
