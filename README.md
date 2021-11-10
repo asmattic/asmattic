@@ -5,7 +5,7 @@
 ## Introduction
 
 - 🔭 I’m currently working on 🤖
-- 🌱 I’m currently learning
+- 🌱 I’m currently learning NextJS, Postgres, GraphQL
 
 <!--
 - 🔭 I’m currently working on 🤖 [AI Chatbot Project](https://github.com/melanieshi0120/AI_Chatbot_Project)
@@ -63,6 +63,12 @@
   </tr>
 
 </table>
+
+---
+
+📝 **Blog posts**
+
+- [Introduction to React Hooks](https://howchoo.com/react/introduction-to-react-hooks)
 
 ---
 
