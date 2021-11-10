@@ -1,16 +1,30 @@
-# Matthew Oldfield
+<h2 align="center">Hey there, I'm <a href="https://matthewoldfield.com" target="_blank">Matthew Oldfield</a>! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
+<p align="center">
+  <a href="https://www.linkedin.com/in/matthew-oldfield/"><img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white"></a>
+  <a href="https://sayak.in"><img src="https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white"></a>
+  <a href="https://twitter.com/MattOldfield2"><img src="https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white"></a>
+  <!--<a href="https://instagram.com/sayak_sarkar"><img src="https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white"></a>
+  <a href="https://sayaksarkar.wordpress.com/"><img src="https://img.shields.io/badge/Wordpress-21759b?style=flat-square&logo=wordpress&logoColor=white"></a>
+  <a href="https://t.me/Bugsmith"><img src="https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white"></a>
+  <img src="https://visitor-badge.glitch.me/badge?page_id=sayak-sarkar/sayak-sarkar">-->
+</p>
+
+---
 
 [![wakatime](https://wakatime.com/badge/github/asmattic/asmattic-gatsby-blog.svg)](https://wakatime.com/badge/github/asmattic/asmattic-gatsby-blog)
 
-## Introduction
+---
+
+## Some Things About Me
 
 - 🔭 I’m currently working on 🤖
 - 🌱 I’m currently learning NextJS, Postgres, GraphQL
+-  ⚡ Fun fact: I play drums
 
 <!--
 - 🔭 I’m currently working on 🤖 [AI Chatbot Project](https://github.com/melanieshi0120/AI_Chatbot_Project)
 - 🌱 I’m currently learning  AWS and GCP
--  ⚡ Fun fact: I play drums
+
 -->
 
 ### Connect with me
@@ -18,7 +32,8 @@
 [<img align="left" alt="LinkedIn" width="80" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/linkedin.ico" />](https://www.linkedin.com/in/matthew-oldfield)
 [<img align="left" alt="Medium" width="80" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/medium.ico" />](https://medium.com/@mattoldfield)
 
-<!--[<img align="left" alt="1000hires" width="80" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/1000hires.ico" ](https://1000hires.com/candidates/466)-->
+[<img align="left" alt="1000hires" width="80" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/1000hires.ico" ](https://1000hires.com/candidates/matthewoldfield)
+
 <br />
 
 <!--
@@ -58,7 +73,7 @@
   </tr>
 
   <tr>
-    <th><strong><a href="https://asmattic.com">Some docs I made for referencing.</a></strong></th>
+    <th><a href="https://asmattic.com">Some docs I made for referencing.</a></th>
     <th><em>My personal documentation site build with the ReadTheDocs Sphinx theme</em></th>
   </tr>
 
