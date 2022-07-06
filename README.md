@@ -1,4 +1,5 @@
-<h2 align="center">Hey there, I'm <a href="https://matthewoldfield.com" target="_blank">Matthew Oldfield</a>! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
+<h2 align="center">Hey there, I'm <a href="https://matthewoldfield.com" target="_blank">Matthew Oldfield</a>!</h2>
+<!--<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">-->
 <p align="center">
   <a href="https://www.linkedin.com/in/matthew-oldfield/"><img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white"></a>
   <a href="https://matthewoldfield.com"><img src="https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white"></a>
@@ -17,15 +18,10 @@
 
 ## Some Things About Me
 
-- 🔭 I’m currently working on 🤖
-- 🌱 I’m currently learning NextJS, Postgres, GraphQL
+- 🔭 I’m currently working on a monorepo multi-platform music aggregation and analysis app
+- 🌱 I’m currently learning NextJS, Postgres, Prisma, NX, Turborepo
 -  ⚡ Fun fact: I play drums
 
-<!--
-- 🔭 I’m currently working on 🤖 [AI Chatbot Project](https://github.com/melanieshi0120/AI_Chatbot_Project)
-- 🌱 I’m currently learning  AWS and GCP
-
--->
 
 ### Connect with me
 
