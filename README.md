@@ -12,14 +12,11 @@
 
 ---
 
-[![wakatime](https://wakatime.com/badge/github/asmattic/asmattic-gatsby-blog.svg)](https://wakatime.com/badge/github/asmattic/asmattic-gatsby-blog)
-
----
 
 ## Some Things About Me
 
 - 🔭 I’m currently working on a monorepo multi-platform music aggregation and analysis app
-- 🌱 I’m currently learning NextJS, Postgres, Prisma, NX, Turborepo
+- 🌱 I’m currently keeping up with the latest on NextJS, Postgres, Prisma, Turborepo
 -  ⚡ Fun fact: I play drums
 
 
