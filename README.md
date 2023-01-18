@@ -11,7 +11,10 @@
 </p>
  
 ---
-https://dev.page/matthewoldfield
+<p align="center">
+  <a href="https://dev.page/matthewoldfield" target="noopener noreferrer"><img src="https://github.com/asmattic/asmattic/blob/main/dev-page-profile.png"></a>
+</p>
+
 
 ## Some Things About Me
 
